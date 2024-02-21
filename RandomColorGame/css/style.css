@@ -1,0 +1,45 @@
+body{
+    overflow: hidden;
+}
+
+.container-fluid{
+    height: 100vh;
+    width: 100vw;
+}
+
+.game{
+    height: 100%;
+    width: 100%;
+}
+
+.randomhexcode{
+    height: 30%;
+    width: 90%;
+}
+
+.colorfields{
+    height: 30%;
+    width: 90%;
+}
+
+.pointcounter{
+    height: 20%;
+    width: 90%;
+}
+
+.subheadline{
+    letter-spacing: 5px;
+    color: #ababab;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.colorfield{
+    height: 140px;
+    width: 140px;
+}
+
+.fieldcontainer{
+    width: 100%;
+    margin-top: 14px;
+}
